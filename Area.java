@@ -9,7 +9,7 @@ public static void main(String[] args) {
     //getNumberInstance() is a factory method
    NumberFormat obj=NumberFormat.getNumberInstance();
     //store format information into obj
-    obj.setMaximumFractiondigits(2);
+    obj.setMaximumFractionDigits(2);
     obj.setMinimumIntegerDigits(7);
     //apply format to area value
     String s=obj.format(area);
