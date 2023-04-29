@@ -1,3 +1,4 @@
+//using factory methods and NumberFormat class object
 import java.text.*;
 public class Area{
 public static void main(String[] args) {
