@@ -1,6 +1,6 @@
 //Hashset doesn't allow duplicate items
 import java.util.HashSet;
-import java.util.Iterator;;
+import java.util.Iterator;
 public class Hs{
     public static void main(String[] args) {
         HashSet<String>hs=new HashSet<String>();
