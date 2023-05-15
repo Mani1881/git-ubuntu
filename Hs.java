@@ -275,6 +275,5 @@ AbstractCollection<Object> set1 = null;
     //toString()
     System.out.println("toString(): " + hs.toString());
     hs.clear();
-
         }
 }
